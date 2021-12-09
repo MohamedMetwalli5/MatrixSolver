@@ -56,7 +56,7 @@ public class StartWindow extends JFrame {
 		methods = new JComboBox();
 		methods.setModel(new DefaultComboBoxModel(options));
 
-		ISize.setBounds(124, 89, 320, 60);
+		ISize.setBounds(124, 89, 350, 60);
 		ISize.setForeground(Color.WHITE);
 		ISize.setFont(new Font("Dialog", Font.BOLD, 30));
 
